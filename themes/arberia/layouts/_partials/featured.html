@@ -60,7 +60,7 @@
 
        </small>
       </p>
-      <div class="text-muted my-1">{{ .Summary | safeHTML }}</div>
+      <div class="text-muted my-1">{{ .Summary | truncate (.Site.Params.summaryLength | default 225) | safeHTML }}</div>
       {{ if .Truncated }}
       <a href="{{ .RelPermalink }}" class="text-primary"><small>{{ i18n "readMore" | default "Leggi tutto..." }}</small></a>
       {{ end }}
