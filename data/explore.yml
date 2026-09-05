@@ -1,6 +1,6 @@
 ##################### Features ##########################
 features:
-  enable: true
+  enable: false
   title: "Explore Arberia Theme"
   card:
   # card
