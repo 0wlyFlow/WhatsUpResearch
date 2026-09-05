@@ -1,5 +1,5 @@
 ---
-weight: 890
+weight: 880
 title: "The emotional brain"
 subtitle: "Spatiotemporal Signatures of the Emotional Brain."
 date: 2026-09-03T19:46:18+02:00
@@ -15,8 +15,10 @@ description:
 tags:
   - brain
   - fMRI
+  - neurosciences
+  - emotions
 categories:
-  - arberia
+  - Article decryption
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -25,24 +27,33 @@ resources:
   - name: featured-image
     src: Cover-Image.png
 
-featured: true
-sidebar: true
-toc: true
+featured: false
+sidebar: false
+toc: false
 math:
   enable: false
 lightgallery: false
 license: ""
 slug: post-sidebar
 ---
-Let's talk about: 
+Let's talk about: how neuroimaging can help investigate how the brain encodes emotions
 
 [![Article header with a link to the full article](Article.png)](https://elifesciences.org/articles/106070)
 
 
-
 ## <span style="color:#18354c">Research question and objectives </span>
-<img src="Why.png" alt="Description" style="float: left; margin: 0 20px 10px 0; width: 250px;">
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+<img src="Why.png" alt="Description" style="float: left; margin: 0 20px 10px 0; width: 100px;">
+
+It is already known that emotional processing involves multiple interconnected regions of the brain. More especifically, *Ridel et al. 2018* identified five distinct networks engaged in emotional processing:  
+
+- the first two networks, located in the occipital and superior temporal cortices, are mainly involve in seeing and hearing the information, respectively;  
+- the third network (called the salience network), which involves the activation of the insula and dorsal anterior cingulate cortex, helps us notice and pay attention to information that is emotionally meaningful;  
+- the fourth network includes areas of what is called the default mode network, such as the medial prefrontal and posterior cingulate cortices, and is involve in the interpretation of the meaning of an emotional situation and predict what might happen next;  
+- the fifth network involves the contribution from the amygdala, parahippocampal gyri and fusiform giry, and helps the brain produce emotional responses appropriate to the situation.   
+
+
+
+
 
 
 ## <span style="color:#18354c">A brief presentation of the methodology </span>
