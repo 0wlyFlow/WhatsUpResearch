@@ -4,6 +4,7 @@ relativeURLs = false
 languageCode = "en-us"
 defaultContentLanguage = 'en'
 theme = "arberia"
+enableEmoji = true
 
 # format date. See https://gohugo.io/functions/format/
 dateformat = "Monday, January 2, 2006"
