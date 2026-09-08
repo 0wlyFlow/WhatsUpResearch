@@ -3,6 +3,9 @@ baseURL = "https://example.com/"
 relativeURLs = false
 languageCode = "en-us"
 defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
 theme = "arberia"
 enableEmoji = true
 
@@ -65,6 +68,16 @@ enableRobotsTXT= true
     isPlainText = true
     noExtension = false
 
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    label = 'English'
+    weight = 10
+  [languages.fr]
+    contentDir = 'content/fr'
+    label = 'Français'
+    weight = 20
 
 ############################# Plugins ##############################
 # CSS Plugins

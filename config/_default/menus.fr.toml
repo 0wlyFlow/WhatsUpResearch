@@ -1,0 +1,109 @@
+# Useful colors for menu items
+    # "color: #ff7e73;
+    # "color: #abe5b1;
+    # "color: #abe0e5;
+    # "color: #ffc873;
+    # "color: #e5c6ab;
+    # "color: #b8abe5; 
+
+# ################### Menu ###################
+[[main]]
+identifier = "Welcome Page"
+pre = "fa fa-home"
+post = ""
+name = "Bienvenue"
+url = "/Welcome"
+title = ""
+weight = 2
+
+
+[[main]]
+identifier = "Posts"
+pre = "fa fa-th-large"
+post = ""
+name = "Posts"
+url = ""
+title = ""
+weight = 3
+
+[[main]]
+identifier = "Latest post"
+pre = "fa fa-free-code-camp"
+post = "Découvrez le dernier article décrypté"
+name = "Dernier post →"
+url = "/posts/"
+title = ""
+weight = 4
+parent = "Posts"
+[main.params]
+  color = "#ff7e73"
+
+[[main]]
+identifier = "All previous posts"
+pre = "fa fa-list"
+post = "Explorez les articles précédemment décryptés"
+name = "Tous les anciens posts →"
+url = "/portfolio/"
+title = ""
+weight = 5
+parent = "Posts"
+[main.params]
+  color = "#abe5b1"
+
+#[[main]]
+#identifier = "post_view_sidebar"
+#pre = "fa fa-file-text-o"
+#post = "Single post view with sidebar"
+#name = "Single Post View With Sidebar"
+#url = "/post-with-sidebar/"
+#title = ""
+#weight = 6
+#parent = "Posts"
+#[main.params]
+#  color = "#ffc873"
+
+#[[main]]
+#identifier = "post_view_no_sidebar"
+#pre = "fa fa-file-text-o"
+#post = "Single post view without sidebar"
+#name = "Single Post View Without Sidebar"
+#url = "/post-without-sidebar/"
+#title = ""
+#weight = 7
+#parent = "Posts"
+#[main.params]
+#  color = "#ffc873"
+
+[[main]]
+identifier = "contact"
+pre = "fa fa-envelope-open-o"
+post = ""
+name = "Contact"
+url = "/contact/"
+title = ""
+weight = 12
+
+[[main]]
+identifier = "about"
+pre = ""
+post = ""
+name = "A propos "
+url = "/about/"
+title = ""
+weight = 13
+
+############################## Footer ##############################
+[[footer]]
+  name = "Contact"
+  url = "/contact"
+  weight = 1
+
+[[footer]]
+  name = "RSS Feed"
+  url = "/index.xml"
+  weight = 2
+
+[[footer]]
+  name = "Privacy&Policy"
+  url = "/privacy&policy"
+  weight = 3

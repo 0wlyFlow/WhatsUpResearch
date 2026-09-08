@@ -33,7 +33,7 @@ other = "Tous les posts sur "
 # === about.html ===
 # === components/author.html ===
 [about]
-other = "A propos "
+other = "A propos d' "
 
 # === grid-view/list.html ===???
 [gotFeedback]

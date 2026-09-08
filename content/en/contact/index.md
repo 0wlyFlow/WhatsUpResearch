@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-subtitle: "Insert subtitles"
+subtitle: ""
 draft: false
 date: 2026-09-03T21:28:23+02:00
 lastmod: 2026-09-03T21:28:23+02:00
@@ -14,6 +14,6 @@ type: "contact"
 
 
 Thank you for your interest!
-If you’ve read this far, thank you very much! Why you do not write me now for more information, or simply to get in touch with me?
+If you’ve read this far, thank you very much! Why you do not write me now for more information, or simply to get in touch with me? ^^
 
 ---

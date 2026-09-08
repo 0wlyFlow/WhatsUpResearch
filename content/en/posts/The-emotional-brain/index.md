@@ -74,30 +74,30 @@ I will spare you the details regarding the fMRI acquisition parameters, preproce
 
 Interestingly, the researchers identified four networks (well, in reality six but the other 2 were interpreted as noise), each with a specific spatial distribution and temporal profile, so they could be associated with different stages of emotional processing:  
 - The first two networks (called **IC0** and **IC1**) were activated as soon as the movie clip started and remained active throughout the 12.5-second sequence. 
-   - These networks involved activity in the visual and temporal areas of the brain (i.e. the lateral occipital and pericalcarine gyri), with IC1 also involving the superior temporal gyrus, amygdala, and medial posterior cingulate regions. 
+   - These networks involved activity in the visual and auditive areas of the brain (i.e. the lateral occipital and pericalcarine gyri), with IC1 also involving the superior temporal gyrus, amygdala, and medial posterior cingulate regions. 
    - More specifically, the brain activity identified within **IC1** aligned with aspects of Networks 1, 2 and 5 described by *Riedel et al. 2018* which are associated with <u>the visual and auditory perception of emotional stimuli</u>, and with the <u>evaluation of the nature of these stimuli</u>. 
    - Regarding the **IC0** network, increased co-activity was observed in lateral frontal and middle temporal areas, which are typically associated with <u>semantic processing</u> (*Huth et al. 2016*, *Visser et al. 2012*). It also involved regions associated with <u>salience network</u>, such as the insula and the anterior cingulate cortex (*Seeley, 2019*). Moreover, these brain activities showed time-to-peak values that lagged ~2 seconds behind those of IC1, leading the authors to conclude that this network was involved in the <u>processing of the meaning associated with the incoming information</u>.  
-&rarr; :brain: **The first two networks help the brain perceives the emotional information, and then making sense of what it means** 
+&rarr; :brain: **The first two networks help the brain perceives the emotional information, and then making sense of what it means and to react adequately** 
 - the third network (**IC2**) was associated with the next step of the experiment, that is making a decision about the emotional stimulus: <u>processing the emotional words displayed on the screen</u> (with activities located in the cortical and subcortical regions); <u>selecting the most relevant emotion-related word</u> (with stronger signals detected in the caudate nucleus region); and finally, the <u>motor response of pressing the corresponding controller button</u> (with activity in primary motor regions such as the precentral gyrus, as well as in regions involved in task-related attention such as the insula and the anterior cingulate cortex) (*Grahn et al. 2008*, *Seeley 2019*).  
 &rarr; :brain: **The third network was associated with the task of deciding which emotion best matched the stimuli the brain had just perceived**
 - the fourth pattern of brain activities identified (**IC4**) was consistent with the <u>default mode network</u>, which is particularly active when a person is at rest or engaged in mind-wandering. This network was active throughout the behavioral experiment, but showed a peak during the intertial rest period (*Riedel et al. 2018*, *Buckner et al. 2008*, *Gross, 2015*).  
 &rarr; :brain: **The fourth network illustrates the moment the brain is not focused on a specific external task**
 
 In other words, what the study showed is that the brain activity seemed to follow a sequence: 
-**perceiving the emotion → understanding its meaning → making a decision → resting**
+**perceiving the emotion → understanding its meaning → making an appropriate decision → resting**
 
 <img src="Results.png" alt="Description" style="display: block; margin: 20px auto; width: 800px;">
 
-It should also be noted that there was greater agreement among participants when the emotional stimulus was sadness, as well as faster decision-making. 
+It should also be noted that there was greater agreement among participants when the emotional stimulus was **sadness**, as well as faster decision-making. 
 Could this mean that sadness is processed particularly quickly? Maybe—but we should be cautious about this interpretation.
 Indeed, we could hypothesize that this result was partly related to the strong sad component of the movie selected for the experimental study, *Forrest Gump* :sneezing_face:. 
 Moreover, as pointed out by the authors themselves, previous studies have also reported fast processing of fearful stimuli (*Méndez-Bértolo et al. 2016*, *Bo et al. 2022*, *Grootswagers et al. 2020*).
 Thus, further research would be needed to determine whether this finding is specific to sadness or related to the particular experimental stimuli.
 
 ### :jigsaw: <span style="color:#18354c">**Putting everything together**</span>
-Finally, thanks to fMRI recordings performed while participants viewed short movie clips from *Forrest Gump*, the authors were able to identify and track the time course of four independent brain networks, associated with different stages of emotional processing: from the perception of the emotional stimulus, to the interpretation of its meaning, followed by the translation of this processing into a decision through the relevant emotional word, and finally to the period of rest following the response. 
+Finally, thanks to fMRI recordings performed while participants viewed short movie clips from *Forrest Gump*, the authors were able to identify and track the time course of four independent brain networks, associated with different stages of emotional processing: from the **perception of the emotional stimulus**, to the **interpretation of its meaning**, followed by the **translation of this processing into a decision** through the relevant emotional word, and finally to the **period of rest** following the response. 
 
-These new insights into emotional processing, and especially its temporal component, are not only interesting from a basic neuroscience perspective, but could also help the future clinical research on emotional disorders: many of them are associated with difficulties in regulating emotions over time, that is disturbances in the temporal regulation of emotion (*Kuppens & Verduyn 2017*, *Waugh et al. 2015*). 
+These new insights into emotional processing, and especially its temporal component, are not only interesting from a basic neuroscience perspective, but could also help the future clinical research on **emotional disorders**: many of them are associated with difficulties in regulating emotions over time, that is disturbances in the temporal regulation of emotion (*Kuppens & Verduyn 2017*, *Waugh et al. 2015*). 
 
 
 ---
