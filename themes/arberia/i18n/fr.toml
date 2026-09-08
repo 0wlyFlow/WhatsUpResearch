@@ -1,0 +1,177 @@
+# Translations for French
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === general ==
+
+[viewComments]
+other = "Voir les commentaires"
+
+[readMore]
+other = "En savoir plus"
+
+[posts]
+other = "Posts"
+
+# === general ==
+
+# === _default/taxonomy.html ===
+[allPostsforTerms]
+other = "Tous les posts pour ... "
+
+# === _default/terms.html ===
+[all]
+other = "Tous "
+
+# === category/taxonomy.html ===
+# [allPostsforCategory]
+# other = "All Posts for ... "
+
+# === category/terms.html ===
+[allPostsforCategory]
+other = "Tous les posts sur "
+
+# === about.html ===
+# === components/author.html ===
+[about]
+other = "A propos "
+
+# === grid-view/list.html ===???
+[gotFeedback]
+other = "Envie de donner votre avis sur l'un de mes projets?"
+
+# === last-post-widget.html ===
+[lastPosts]
+other = "Derniers Posts"
+
+[viewAll]
+other = "Voir tous »"
+
+# === Pagination ===
+[previousPage]
+other = "Pages précédentes"
+
+[nextPage]
+other = "Page suivante"
+# === Pagination ===
+
+# === video-layout.html ===
+[courseContents]
+other = "Course Contents"
+
+# === with-sidebar.html ===
+[comments]
+other = "0 Commentaire"
+
+# === shortcodes/download-files.html ===
+[download]
+other = "Télécharger"
+
+# === shortcodes/faq.html ===
+[showHide]
+other = "Montrer/Cacher"
+
+# === shortcodes/list-element.html ===
+[topic]
+other = "Sujet"
+
+# === shortcodes/playlist.html ===
+[lessons]
+other = "Leçons"
+
+# === components ===
+
+# === components/author-sb.html ===
+# === components/author.html ===
+[moreAbout]
+other = "» En savoir plus"
+
+[aboutMe]
+other = "A propos de moi"
+
+# === components/recent-widget.html ===
+[recentPosts]
+other = "Posts récents"
+
+# === components/completes-mark.html ===
+[markAscompleted]
+other = "Mark as Completed"
+
+# === components/contact-form.html ===
+[name]
+other = "Nom"
+
+[email]
+other = "Email"
+
+[subject]
+other = "Sujet"
+
+[message]
+other = "Ecrire Votre Message Ici"
+
+[send]
+other = "Envoyer"
+
+# === components/mailchimp.html ===
+[subscribe]
+other = "S'abonner"
+
+[nospam]
+other = "🔒 Pas de spam. Possibilité de vous désinscrire à tout moment."
+
+# === components/tag-cloud.html ===
+[tagTopics]
+other = "Tous les tags"
+
+# === toc.html ===
+[tableOfContents]
+other = "Sommaire"
+
+# === Nuove chiavi identificate ===
+[pageNotFound]
+other = "Page Non Trouvée"
+
+[pageNotFoundMessage]
+other = "Désolé, cette page est introuvable."
+
+[goToHomepage]
+other = "Retourner à la page d'accueil"
+
+[filePdfLabel]
+other = "Fichier (.pdf)"
+
+[permanentLinkTitle]
+other = "Lien Permanent"
+
+[newLabel]
+other = "NOUVEAU"
+
+[searchPlaceholder]
+other = "Rechercher..."
+
+[exitFullscreen]
+other = "Sortir de la vue plein écran"
+
+[brandLogoAlt]
+other = "logo de la marque"
+
+[freeEmailSeries]
+other = "— FREE Email Series —"
+
+[pythonTricksTitle]
+other = "🐍 Python Tricks 💌"
+
+[pythonTricksAlt]
+other = "Python Tricks Dictionary Merge"
+
+[searchButton]
+other = "Rechercher »"
+
+[textPostAlt]
+other = "text-post"
+
+[byAuthor]
+other = "par"
+
+[authorImageAlt]
+other = "image de l'auteur"
