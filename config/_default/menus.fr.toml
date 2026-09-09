@@ -12,7 +12,7 @@ identifier = "Welcome Page"
 pre = "fa fa-home"
 post = ""
 name = "Bienvenue"
-url = "/Welcome"
+url = "/fr/Welcome"
 title = ""
 weight = 2
 
@@ -31,7 +31,7 @@ identifier = "Latest post"
 pre = "fa fa-free-code-camp"
 post = "Découvrez le dernier article décrypté"
 name = "Dernier post →"
-url = "/posts/"
+url = "/fr/posts/"
 title = ""
 weight = 4
 parent = "Posts"
@@ -43,7 +43,7 @@ identifier = "All previous posts"
 pre = "fa fa-list"
 post = "Explorez les articles précédemment décryptés"
 name = "Tous les anciens posts →"
-url = "/portfolio/"
+url = "/fr/portfolio/"
 title = ""
 weight = 5
 parent = "Posts"
@@ -79,7 +79,7 @@ identifier = "contact"
 pre = "fa fa-envelope-open-o"
 post = ""
 name = "Contact"
-url = "/contact/"
+url = "/fr/contact/"
 title = ""
 weight = 12
 
@@ -88,22 +88,22 @@ identifier = "about"
 pre = ""
 post = ""
 name = "A propos "
-url = "/about/"
+url = "/fr/about/"
 title = ""
 weight = 13
 
 ############################## Footer ##############################
 [[footer]]
   name = "Contact"
-  url = "/contact"
+  url = "/fr/contact"
   weight = 1
 
 [[footer]]
   name = "RSS Feed"
-  url = "/index.xml"
+  url = "/fr/index.xml"
   weight = 2
 
 [[footer]]
   name = "Privacy&Policy"
-  url = "/privacy&policy"
+  url = "/fr/privacy&policy"
   weight = 3
