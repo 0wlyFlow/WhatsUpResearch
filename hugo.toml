@@ -1,4 +1,4 @@
 baseURL = "https://whatsupresearch.statichost.page/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = "What's Up Research?!"
 theme = "arberia"
