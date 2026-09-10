@@ -12,7 +12,7 @@ tagline = "Responsive Hugo Theme"
 description = "Blog for accessible scientific communication of recent research from various disciplines."
 keywords = "Science"
 author = "OwlyFlow"
-author_resume = "<strong>OwlyFlow</strong> est l'auteure de ces posts, visitez la page <em>A propos</em>."
+author_resume = "<strong>OwlyFlow</strong> is the author of these posts, please visit the <em>About page</em> to learn more about her!"
 
 # Date format. See https://gohugo.io/functions/format/
 dateformat = "Monday, January 2, 2006"
