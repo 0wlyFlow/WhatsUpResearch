@@ -14,7 +14,7 @@ description:
 
 tags:
   - alimentation
-  - cohort longitudinale
+  - cohorte longitudinale
   - maladie inflammatoire chronique
 categories:
   - Déchiffrage d'article
