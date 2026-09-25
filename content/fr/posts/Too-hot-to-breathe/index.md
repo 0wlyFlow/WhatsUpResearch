@@ -112,6 +112,13 @@ Des mesures sont également disponibles à une échelle plus locale, voire gouve
 ---
 ---
   
+Avant de se quitter, je vous propose de voter pour le thème du prochain article que vous souhaitez que je déchiffre pour vous :  
+<div class="strawpoll-embed" id="strawpoll_YVyPv3W42gN" style="height: 708px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_YVyPv3W42gN" src="https://strawpoll.com/embed/YVyPv3W42gN" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script nonce="MGI4M2E0YWVhMWI1ZjkxMzZkOWQ0NjM1ZDNlNDRhMjJiMTZjMWJhNg==" async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
+
+---
+---
+---
+  
   
 > <span style="color:#4682B4">**Lire l'article**</span>: Nassikas N, Ni W, Luttmann-Gibson H, Bubes V, Zanobetti A, Coull B, et al (2026). **Short-term exposure to heat associated with lower lung function in older adults: analysis of the Lung VITAL cohort**. *BMJ Open Respiratory Research* 13:e004661 (https://doi.org/10.1136/bmjresp-2026-004661)
 

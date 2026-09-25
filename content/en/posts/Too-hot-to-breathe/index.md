@@ -109,7 +109,13 @@ Measures are also available at the local, state and public institutions levels (
 ---
 ---
   
-  
+Before we wrap up, I'd like to invite you to vote on the topic of the next article you'd like me to break down for you: 
+<div class="strawpoll-embed" id="strawpoll_Q0Zp78AMDgM" style="height: 708px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp78AMDgM" src="https://strawpoll.com/embed/Q0Zp78AMDgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script nonce="N2UwMzdjODdiYTNlNTZmMDY0NDJkZjQ3OGU5MDFkMWJjOGIyNmZhNg==" async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
+
+---
+---
+---
+
 > <span style="color:#4682B4">**Read the article**</span>: Nassikas N, Ni W, Luttmann-Gibson H, Bubes V, Zanobetti A, Coull B, et al (2026). **Short-term exposure to heat associated with lower lung function in older adults: analysis of the Lung VITAL cohort**. *BMJ Open Respiratory Research* 13:e004661 (https://doi.org/10.1136/bmjresp-2026-004661)
 
 > <span style="color:#4682B4">**Cited references**</span>:  
