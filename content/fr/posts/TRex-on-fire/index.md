@@ -96,8 +96,7 @@ Ces résultats viennent également soutenir l'hypothèse selon laquelle, malgré
 ---
   
 Avant de se quitter, je vous propose de voter pour le thème du prochain article que vous souhaitez que je déchiffre pour vous :  
-<div class="strawpoll-embed" id="strawpoll_PKglevBoRZp" style="height: 644px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_PKglevBoRZp" src="https://strawpoll.com/embed/PKglevBoRZp" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
-
+<div class="strawpoll-embed" id="strawpoll_NoZrzrDQ3Z3" style="height: 644px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NoZrzrDQ3Z3" src="https://strawpoll.com/embed/NoZrzrDQ3Z3" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
 ---
 ---
 ---
