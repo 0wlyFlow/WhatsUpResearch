@@ -37,7 +37,7 @@ slug: post-sidebar
 ---
 Parlons de : comment le réchauffement climatique représente une menace pour notre santé respiratoire.
 
-[![Article header with a link to the full article](Article.png)](https://www.sciencedirect.com/science/article/pii/S0002916526003205?via%3Dihub)
+[![Article header with a link to the full article](Article.png)](https://bmjopenrespres.bmj.com/content/13/1/e004661)
 
 
 ## <span style="color:#18354c">Question de recherche et objectifs </span>

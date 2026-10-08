@@ -37,7 +37,7 @@ slug: post-sidebar
 ---
 Let's talk about: how scientists demonstrated that *T. rex* was warm-blooded, with a body temperature suprisingly close to humans.
 
-[![Article header with a link to the full article](Article.png)](https://www.sciencedirect.com/science/article/pii/S0002916526003205?via%3Dihub)
+[![Article header with a link to the full article](Article.png)](https://www.science.org/doi/10.1126/sciadv.aeb7653)
 
 
 ## <span style="color:#18354c">Research question and objectives </span>
@@ -103,7 +103,7 @@ Before we wrap up, I'd like to invite you to vote on the topic of the next artic
 ---
 ---
 
-> <span style="color:#4682B4">**Read the article**</span>: Flores RJ, Eagle RA, Trayler RB, Larocca Conte G, Kim SL, Chiarenza AA, Farnsworth A, Valdes PJ, Chiappe L, Tripati A. (2026) **The body temperature of Tyrannosaurus rex**. **Sci Adv** 12(38):eaeb7653 https://doi.org/10.1126/sciadv.aeb7653)
+> <span style="color:#4682B4">**Read the article**</span>: Flores RJ, Eagle RA, Trayler RB, Larocca Conte G, Kim SL, Chiarenza AA, Farnsworth A, Valdes PJ, Chiappe L, Tripati A. (2026) **The body temperature of Tyrannosaurus rex**. **Sci Adv** 12(38):eaeb7653 (https://doi.org/10.1126/sciadv.aeb7653)
 
 > <span style="color:#4682B4">**Cited references**</span>:  
 > - Amiot R, Lecuyer C, Buffetaut E, Escarguel G, Fluteau F, Martineau F (2006) Oxygen isotopes from biogenic apatites suggest widespread endothermy in cretaceous dinosaurs. *Earth Planet Sci Lett* 246, 41–54

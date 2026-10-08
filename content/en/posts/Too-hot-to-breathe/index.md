@@ -37,7 +37,7 @@ slug: post-sidebar
 ---
 Let's talk about: how global warming pose a threat to our respiratory health.
 
-[![Article header with a link to the full article](Article.png)](https://www.sciencedirect.com/science/article/pii/S0002916526003205?via%3Dihub)
+[![Article header with a link to the full article](Article.png)](https://bmjopenrespres.bmj.com/content/13/1/e004661)
 
 
 ## <span style="color:#18354c">Research question and objectives </span>

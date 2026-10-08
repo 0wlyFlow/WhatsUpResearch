@@ -37,7 +37,7 @@ slug: post-sidebar
 ---
 Parlons de : comment les scientifiques ont démontré que le *T. rex* était un animal à sang chaud, avec une température corporelle étonnamment proche de celle des humains.
 
-[![Article header with a link to the full article](Article.png)](https://www.sciencedirect.com/science/article/pii/S0002916526003205?via%3Dihub)
+[![Article header with a link to the full article](Article.png)](https://www.science.org/doi/10.1126/sciadv.aeb7653)
 
 
 ## <span style="color:#18354c">Questions de recherche et objectifs </span>
@@ -101,7 +101,7 @@ Avant de se quitter, je vous propose de voter pour le thème du prochain article
 ---
 ---
 
-> <span style="color:#4682B4">**Lire l'article**</span>: Flores RJ, Eagle RA, Trayler RB, Larocca Conte G, Kim SL, Chiarenza AA, Farnsworth A, Valdes PJ, Chiappe L, Tripati A. (2026) **The body temperature of Tyrannosaurus rex**. **Sci Adv** 12(38):eaeb7653 https://doi.org/10.1126/sciadv.aeb7653)
+> <span style="color:#4682B4">**Lire l'article**</span>: Flores RJ, Eagle RA, Trayler RB, Larocca Conte G, Kim SL, Chiarenza AA, Farnsworth A, Valdes PJ, Chiappe L, Tripati A. (2026) **The body temperature of Tyrannosaurus rex**. **Sci Adv** 12(38):eaeb7653 (https://doi.org/10.1126/sciadv.aeb7653)
 
 > <span style="color:#4682B4">**Références mentionnées**</span>:  
 > - Amiot R, Lecuyer C, Buffetaut E, Escarguel G, Fluteau F, Martineau F (2006) Oxygen isotopes from biogenic apatites suggest widespread endothermy in cretaceous dinosaurs. *Earth Planet Sci Lett* 246, 41–54
