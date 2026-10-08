@@ -2,7 +2,7 @@
 weight: 880
 title: "Healing plants?"
 subtitle: "Evaluation of the antioxidants properties of medicinal plants."
-date: 2026-10-04T18:38:28+02:00
+date: 2026-10-08T18:38:28+02:00
 lastmod: 2026-10-08T08:17:57+02:00
 draft: false
 type: standard-view
