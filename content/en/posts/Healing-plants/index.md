@@ -95,7 +95,13 @@ So, yep, beware of what you put on your skin!
 ---
 ---
 ---
-  
+
+Before we wrap up, I'd like to invite you to vote on the topic of the next article you'd like me to break down for you: 
+<div class="strawpoll-embed" id="strawpoll_w4nWW10Q5nA" style="height: 644px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_w4nWW10Q5nA" src="https://strawpoll.com/embed/w4nWW10Q5nA" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
+
+---
+---
+---
   
 > <span style="color:#4682B4">**Read the article**</span>: Horecka, A., Olszewska, A., Mertowski, S., Kuliński, J. & Hordyjewska, A. (2026) **Do Aloe vera, Bryophyllum pinnatum, Callisia fragrans, and Pelargonium graveolens, used in folk medicine to treat skin diseases, exhibit antioxidant activity?** *Ann Agric Environ Med*, 33(3), 347–352. (https://doi.org/10.26444/aaem/216269).
 
