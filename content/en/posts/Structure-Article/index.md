@@ -217,4 +217,3 @@ Once you've completed your revisions, you can submit the new version and... wait
 And finally, you'll get to celebrate the publication of your paper, the fruit of all your hard work: conducting the research, writing the manuscript, formatting it according to the journal's requirements, patiently addressing the reviewers' feedback, and completing the final *proofreading* stage (the final step offered by the journal after your paper has been accepted for publication, during which you check the information and layout for any errors).  
 Well done! You should be proud of yourself and this new addition to your CV! 😘  
 And by the way, feel free to share your publications here (or on my Instagram account, @OwlyFlow). I'd be delighted to share them with my audience too - or even write a science communication piece breaking them down for a wider audience! ^^
-

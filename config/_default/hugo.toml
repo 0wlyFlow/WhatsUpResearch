@@ -79,6 +79,9 @@ enableRobotsTXT= true
     label = 'Français'
     weight = 20
 
+[params]
+  comments = true
+  
 ############################# Plugins ##############################
 # CSS Plugins
 # [[params.plugins.css]]

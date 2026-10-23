@@ -50,6 +50,9 @@ list_id = "code"
 enable = true
 shortname = "your-shortname-disqus" # Replace with your Disqus shortname
 
+[giscus]
+comments = true
+
 #################### Social link Buttons ################################
 [[social.links]]
 title = "medium"

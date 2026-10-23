@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{- $type := .Params.type | default "standard-view" -}}
+
+{{- if eq $type "standard-view" -}}
+    {{- if eq .Params.sidebar true -}}
+    {{ partial "with-sidebar.html" . }}
+    {{else}}
+    {{ partial "without-sidebar.html" . }}
+    {{- end -}}
+{{- else if eq $type "cover-view" -}}
+    {{ partial "with-cover.html" . }}
+{{- else if eq $type "video" -}}
+    {{ partial "video-layout.html" . }}
+{{ end }}
+
+{{/*  Giscus : commentaires et réactions  */}}
+{{- if and site.Params.comments (ne .Params.comments false) -}}
+<div class="container my-5">
+    {{ partial "comments.html" . }}
+</div>
+{{- end -}}
+
+{{ end }}
