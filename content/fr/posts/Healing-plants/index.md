@@ -17,7 +17,7 @@ tags:
   - maladies de la peau
   - étude in vitro
 categories:
-  - Article decryption
+  - Déchiffrage d'article
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
