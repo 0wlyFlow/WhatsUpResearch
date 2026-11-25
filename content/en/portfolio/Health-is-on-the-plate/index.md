@@ -33,7 +33,7 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: post-sidebar
+slug: portfolio
 ---
 Let's talk about: how your diet play a role in the incidence of inflammatory chronic disease.
 

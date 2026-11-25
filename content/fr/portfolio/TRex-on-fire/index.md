@@ -33,7 +33,7 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: post-sidebar
+slug: portfolio
 ---
 Parlons de : comment les scientifiques ont démontré que le *T. rex* était un animal à sang chaud, avec une température corporelle étonnamment proche de celle des humains.
 

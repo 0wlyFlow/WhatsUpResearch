@@ -33,7 +33,7 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: post-sidebar
+slug: portfolio
 ---
 Let's talk about: how scientists demonstrated that *T. rex* was warm-blooded, with a body temperature suprisingly close to humans.
 

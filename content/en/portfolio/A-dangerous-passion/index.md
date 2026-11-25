@@ -33,7 +33,7 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: post-sidebar
+slug: portfolio
 ---
 Let's talk about: the potential changes observed in healthcare-seeking behavior associated with cardiovascular issues during World Cup matches.
 

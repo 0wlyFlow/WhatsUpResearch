@@ -34,7 +34,7 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: post-sidebar
+slug: portfolio
 ---
 Let's talk about: how neuroimaging can help investigate how the brain encodes emotions
 

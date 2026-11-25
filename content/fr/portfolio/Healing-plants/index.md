@@ -33,7 +33,7 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: post-sidebar
+slug: portfolio
 ---
 
 Parlons de : l'évaluation des présumés effets anti-oxidants de certaines plantes médicinales. 
