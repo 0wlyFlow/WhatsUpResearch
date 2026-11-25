@@ -33,7 +33,6 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: portfolio
 ---
 Let's talk about: the evaluation of the presumed antioxidant effect of some specific medicinal plants.
 

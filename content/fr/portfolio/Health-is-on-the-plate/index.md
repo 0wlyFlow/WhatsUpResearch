@@ -33,7 +33,6 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: portfolio
 ---
 Parlons de : comment votre alimentation joue un rôle dans l'incidence des maladies inflammatoires chroniques.
 

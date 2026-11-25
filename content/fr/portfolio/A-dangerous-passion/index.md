@@ -33,7 +33,6 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: portfolio
 ---
 Cette semaine, parlons des potentiels changements observés dans les comportements en matière de recours aux soins associés aux troubles cardiovasculaires pendant les matchs de Coupe du Monde. 
 

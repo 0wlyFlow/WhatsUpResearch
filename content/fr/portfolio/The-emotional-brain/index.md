@@ -34,7 +34,6 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: portfolio
 ---
 Parlons de : comment la neuroimagerie peut nous aider à comprendre comment le cerveau encode les émotions
 

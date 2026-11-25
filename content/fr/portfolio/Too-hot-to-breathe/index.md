@@ -33,7 +33,6 @@ math:
   enable: false
 lightgallery: false
 license: ""
-slug: portfolio
 ---
 Parlons de : comment le réchauffement climatique représente une menace pour notre santé respiratoire.
 
